@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @devfaf
-- 👀 I’m interested in art and tech.
-- 🌱 I’m currently learning JavaScript.
